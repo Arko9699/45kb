@@ -2,6 +2,7 @@
 hhkb-like 40% handwired keyboard. inspired by the C-13X by flurpes.
 
 # pics
+![layout](https://github.com/Arko9699/45kb/blob/main/pics/layout.png?raw=true)
 ![front](https://github.com/Arko9699/45kb/blob/main/pics/Front%20View.png?raw=true)
 ![side](https://github.com/Arko9699/45kb/blob/main/pics/Ortho%20View.PNG?raw=true)
 
