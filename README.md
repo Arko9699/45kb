@@ -9,13 +9,13 @@ hhkb-like 40% handwired keyboard. inspired by the C-13X by flurpes. made by and 
 # features
 * 18mm front height
 * hhkb layout
-* gasket mount - 4mm width x 3mm thickness
+* gasket mount
 
 # materials
 * 45x MX switches
 * 45x 1n4148 diodes
 * waveshare rp2040 diode (cutout designed for given mcu, others can be used by editing the model to your required dimensions)
-* 3mm thick gaskets
+* 3mm thick gaskets (made with d65 gasket strips in mind, others may be used by cutting them to shape)
 * wiring
 * 5x M2x8mm screws and M2x5 threaded inserts
 * 1x 6.25u plate mount stabilizer
