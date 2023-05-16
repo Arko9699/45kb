@@ -1,5 +1,5 @@
 # 45kb
-hhkb-like 40% handwired keyboard. inspired by the C-13X by flurpes.
+hhkb-like 40% handwired keyboard. inspired by the C-13X by flurpes. made by and for people looking to get quirky without burning the bank.
 
 # pics
 ![layout](https://github.com/Arko9699/45kb/blob/main/pics/layout.png?raw=true)
