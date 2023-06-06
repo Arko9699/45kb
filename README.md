@@ -14,7 +14,7 @@ hhkb-like 40% handwired keyboard. inspired by the C-13X by flurpes. made by and 
 # materials
 * 45x MX switches
 * 45x 1n4148 diodes
-* waveshare rp2040 diode (cutout designed for given mcu, others can be used by editing the model to your required dimensions)
+* waveshare rp2040 (cutout designed for given mcu, others can be used by editing the model to your required dimensions)
 * 3mm thick gaskets (made with d65 gasket strips in mind, others may be used by cutting them to shape)
 * wiring
 * 5x M2x8mm screws and M2x5 threaded inserts
