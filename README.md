@@ -1,5 +1,5 @@
-# 45kb
-hhkb-like 45% handwired keyboard. inspired by the C-13X by flurpes. made by and for people looking to get quirky without burning the bank.
+# ark40
+hhkb-like 40% handwired keyboard. inspired by the C-13X by flurpes. made by and for people looking to get quirky without burning the bank.
 
 # pics
 ![layout](https://github.com/Arko9699/45kb/blob/main/pics/layout.png?raw=true)
@@ -17,6 +17,6 @@ hhkb-like 45% handwired keyboard. inspired by the C-13X by flurpes. made by and 
 * waveshare rp2040 (cutout designed for given mcu, others can be used by editing the model to your required dimensions)
 * 3mm thick gaskets (made with d65 gasket strips in mind, others may be used by cutting them to shape)
 * wiring
-* 5x M2x8mm screws and M2x5 threaded inserts
-* 1x 6.25u plate mount stabilizer
+* 8x M2x8mm screws and M2x5 threaded inserts
+* 1x 7u plate mount stabilizer
 * 4x bumpons(optional)
