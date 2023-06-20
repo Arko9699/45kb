@@ -2,9 +2,9 @@
 hhkb-like 40% handwired keyboard. inspired by the C-13X by flurpes. made by and for people looking to get quirky without burning the bank.
 
 # pics
-![layout](https://github.com/Arko9699/45kb/blob/main/pics/layout.png?raw=true)
-![front](https://github.com/Arko9699/45kb/blob/main/pics/Front%20View.png?raw=true)
-![side](https://github.com/Arko9699/45kb/blob/main/pics/Ortho%20View.PNG?raw=true)
+![layout](https://github.com/Arko9699/45kb/blob/main/pics/hw_layout.png?raw=true)
+![front](https://github.com/Arko9699/45kb/blob/main/pics/front_view.png?raw=true)
+![side](https://github.com/Arko9699/45kb/blob/main/pics/side_view.png?raw=true)
 
 # features
 * 18mm front height
