@@ -1,22 +1,22 @@
 # ark40
-hhkb-like 40% handwired keyboard. inspired by the C-13X by flurpes. made by and for people looking to get quirky without burning the bank.
+A simple 40% keyboard with an HHKB-like layout. Two-piece case with gasket mounting, inspired by the flurpes' ![C-13X](https://github.com/flurples/C-13X).
 
-# pics
-![layout](https://github.com/Arko9699/45kb/blob/main/pics/hw_layout.png?raw=true)
-![front](https://github.com/Arko9699/45kb/blob/main/pics/front_view.png?raw=true)
-![side](https://github.com/Arko9699/45kb/blob/main/pics/side_view.png?raw=true)
+# Layout
+![layout](https://github.com/Arko9699/45kb/blob/main/pics/layout.png?raw=true)
 
-# features
-* 18mm front height
-* hhkb layout
-* gasket mount
+# Pics
+![front](https://github.com/Arko9699/45kb/blob/main/pics/view.png?raw=true)
+![back](https://github.com/Arko9699/45kb/blob/main/pics/butt.png?raw=true)
 
-# materials
-* 45x MX switches
-* 45x 1n4148 diodes
-* waveshare rp2040 (cutout designed for given mcu, others can be used by editing the model to your required dimensions)
-* 3mm thick gaskets (made with d65 gasket strips in mind, others may be used by cutting them to shape)
-* wiring
-* 8x M2x8mm screws and M2x5 threaded inserts
-* 1x 7u plate mount stabilizer
-* 4x bumpons(optional)
+# Features
+* HHKB-like layout
+* Gasket mount
+* ![Unified Daughterboard](https://unified-daughterboard.github.io)
+* QMK Firmware (WIP)
+* Made using KiCad 7.0.5
+
+# Specs
+* Front Height :
+* Dimensions :
+* Typing Angle : 4.5 degree
+* Weight : 
