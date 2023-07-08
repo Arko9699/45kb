@@ -2,13 +2,12 @@
 A simple 40% keyboard with an HHKB-like layout. Two-piece case with gasket mounting, inspired by the flurpes' ![C-13X](https://github.com/flurples/C-13X).
 
 # Layout
-![layout](https://github.com/Arko9699/ark40/blob/main/pics/layout.png?raw=true)
+![layout](https://github.com/Arko9699/ark40/blob/main/pics/layout.png)
 
 # Pics
-![front](https://github.com/Arko9699/ark40/blob/main/pics/front.png?raw=true)
-![back](https://github.com/Arko9699/ark40/blob/main/pics/butt.png?raw=true)
-![side](https://github.com/Arko9699/ark40/blob/main/pics/ark40_side.png?raw=true)
-
+![front](https://github.com/Arko9699/ark40/blob/main/pics/front.png)
+![back](https://github.com/Arko9699/ark40/blob/main/pics/butt.png)
+![side](https://github.com/Arko9699/ark40/blob/main/pics/ark40_side.png)
 # Features
 * HHKB-like layout
 * Gasket mount
