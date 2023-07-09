@@ -4,10 +4,11 @@ A simple 40% keyboard with an HHKB-like layout. Two-piece case with gasket mount
 # Layout
 ![layout](https://i.imgur.com/93DkxnP.png)
 
-# Pics
+# Renders
 ![front](https://i.imgur.com/qSccSED.png)
 ![back](https://i.imgur.com/dMoXs7j.png)
 ![side](https://i.imgur.com/fkw7zYV.png)
+
 # Features
 * HHKB-like layout
 * Gasket mount
