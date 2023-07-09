@@ -17,7 +17,7 @@ A simple 40% keyboard with an HHKB-like layout. Two-piece case with gasket mount
 * Made using KiCad 7.0.5
 
 # Specs
-* Front Height :
-* Dimensions :
+* Front Height : 18mm
+* Dimensions : 282.2mm x 89.6mm x 44mm
 * Typing Angle : 4.5 degree
 * Weight : 
