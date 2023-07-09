@@ -5,9 +5,9 @@ A simple 40% keyboard with an HHKB-like layout. Two-piece case with gasket mount
 ![layout](https://i.imgur.com/93DkxnP.png)
 
 # Pics
-![front](https://github.com/Arko9699/ark40/blob/main/pics/front.png)
-![back](https://github.com/Arko9699/ark40/blob/main/pics/butt.png)
-![side](https://github.com/Arko9699/ark40/blob/main/pics/ark40_side.png)
+![front](https://i.imgur.com/qSccSED.png)
+![back](https://i.imgur.com/dMoXs7j.png)
+![side](https://i.imgur.com/fkw7zYV.png)
 # Features
 * HHKB-like layout
 * Gasket mount
