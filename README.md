@@ -21,3 +21,6 @@ A simple 40% keyboard with an HHKB-like layout. Two-piece case with gasket mount
 * Dimensions : 285.2mm x 89.8mm x 26.9mm
 * Typing Angle : 4.5 degree
 * Weight : 
+
+# NOTE
+There is an case bottom that is meant to be used with a Waveshare RP2040 Zero for a handwired build. Make sure to use the correct plate file with plate mount stabilisers cutouts.
