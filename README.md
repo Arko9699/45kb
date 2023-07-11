@@ -5,9 +5,9 @@ A simple 40% keyboard with an HHKB-like layout. Two-piece case with gasket mount
 ![layout](https://i.imgur.com/93DkxnP.png)
 
 # Renders
-![front](https://i.imgur.com/qSccSED.png)
-![back](https://i.imgur.com/dMoXs7j.png)
-![side](https://i.imgur.com/fkw7zYV.png)
+![front](https://i.imgur.com/9zHc5Q2.png)
+![back](https://i.imgur.com/OH3diNs.png)
+![side](https://i.imgur.com/rCZuNoR.png)
 
 # Features
 * HHKB-like layout
